@@ -1,1 +1,1 @@
-Making todo application in vue object using tasks array structure and add method and toogleTasks method.
+Making todo application in vue object using tasks array structure and add method and toogleTasks method using options api.
